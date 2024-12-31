@@ -1,4 +1,4 @@
-# scRNA analysis 
+# scRNA seq analysis 
 
 This my project on bioinformatic analysis of single cell RNA seq data.
 
