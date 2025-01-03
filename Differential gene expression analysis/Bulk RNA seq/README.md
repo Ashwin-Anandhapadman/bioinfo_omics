@@ -18,5 +18,3 @@ This project aims to explore the transcriptional patterns associated with the mo
 3. Visualization of differentially expressed genes.
 4. Functional analysis (Over-representation analysis and Gene set enrichment analysis (GSEA))
 
-5. 
-6. 
